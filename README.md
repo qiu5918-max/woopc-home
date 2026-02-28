@@ -1,3 +1,7 @@
+WooPC 是一个 AI 驱动的个人创业者微站赋能平台，聚焦 One Personal Company（OPC）       
+        超级个体。本项目是 WooPC 的官网首页，用于展示产品功能、核心价值和获取用户线索      
+        。
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
